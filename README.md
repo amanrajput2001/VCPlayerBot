@@ -53,10 +53,10 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/VCPlayerBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amanrajput2001/VCPlayerBot)
 
 ## Deploy to Railway
-<p><a href=https://github.com/subinps/VCPlayerBot/issues/7> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Famanrajput2001%2FVCPlayerBot&envs=ADMIN_ONLY%2CADMINS%2CAPI_HASH%2CAPI_ID%2CBOT_TOKEN%2CCHAT%2CDATABASE_URI%2CHEROKU_API_KEY%2CHEROKU_APP_NAME%2CLOG_GROUP%2CQUALITY%2CREPLY_MESSAGE%2CSESSION_STRING%2CSTARTUP_STREAM&optionalEnvs=ADMIN_ONLY%2CDATABASE_URI%2CHEROKU_API_KEY%2CHEROKU_APP_NAME%2CLOG_GROUP%2CQUALITY%2CREPLY_MESSAGE%2CSTARTUP_STREAM&ADMIN_ONLYDesc=Change+it+to+True+if+you+want+to+make+%2Fplay+command+available+for+everyone&ADMINSDesc=ID+OF+USERS+TO+ACCESS+THE+BOT&API_HASHDesc=api_hash+part+of+your+Telegram+API+Key+from+my.telegram.org%2Fapps&API_IDDesc=api_id+part+of+your+Telegram+API+Key+from+my.telegram.org%2Fapps&BOT_TOKENDesc=Bot+token+of+Bot%2C+get+from+%40Botfather&CHATDesc=ID+of+Channel+or+Group+where+the+Bot+plays+Music&DATABASE_URIDesc=Mongo+DB+database+URI+%2C+get+from+https%3A%2F%2Fcloud.mongodb.com%2C+even+if+this+is+optional%2C+many+of+functions+may+not+work+if+this+is+not+set.&HEROKU_API_KEYDesc=Your+heroku+api+key%2C+get+it+from+https%3A%2F%2Fdashboard.heroku.com%2Faccount%2Fapplications%2Fauthorizations%2Fnew&HEROKU_APP_NAMEDesc=Name+of+your+app&LOG_GROUPDesc=ID+of+the+group+to+send+playlist+If+CHAT+is+a+Group%2C+if+channel+then+leave+blank&QUALITYDesc=Quality+of+video&REPLY_MESSAGEDesc=A+reply+message+to+those+who+message+the+USER+account+in+PM.+Make+it+blank+if+you+do+not+need+this+feature&SESSION_STRINGDesc=Session+string%2C+read+the+README+to+learn+how+to+export+it+with+Pyrogram&STARTUP_STREAMDesc=YouTube+live+%2F+Direct+link+to+a+video+%2F+Telegram+link+to+a+YouTube+playlist.%28Read+the+README+for+more+info.%29&REPLY_MESSAGEDefault=Hey%2C+Iam+a+bot+to+play+music%2C+not+having+time+to+chat+with+you.&referralCode=Vr-DSL)
 
  
 ## Deploy to VPS
